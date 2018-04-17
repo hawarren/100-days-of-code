@@ -39,3 +39,13 @@
 **Thoughts** I'm feeling closer to finishing Bugtracker. I need to brush up on my CSS, but w3schools is a great reference for the things I want to do. Also, I'm much more productive coding-wise when I am working on a deliverable (aka this is the clear predetermined outcome I want right now.)
 
 **Link(s) to work**
+
+
+### Day 85: April 17, 2018
+
+**Today's Progress**: 
+I did 3 lessons in the Introduction to Javascript lab (basicallyfrom "Intro to Functions" thru "Functions Lab"
+**Thoughts** 
+It felt good to refresh my memory and knowledge of syntax. It's challenging to carefully read something that I already know about, but I feel like I did a good job of actually reading everything and not skipping steps. But when it came to coding time, I coded all the tests at once because I knew what I was doing, and the only errors were typos that I quickly addressed.
+**Link(s) to work**
+https://learn.co/tracks/introduction-to-javascript/javascript-foundations/functions-and-scope/functions-lab
