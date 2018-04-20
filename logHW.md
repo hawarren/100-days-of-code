@@ -49,3 +49,13 @@ I did 3 lessons in the Introduction to Javascript lab (basicallyfrom "Intro to F
 It felt good to refresh my memory and knowledge of syntax. It's challenging to carefully read something that I already know about, but I feel like I did a good job of actually reading everything and not skipping steps. But when it came to coding time, I coded all the tests at once because I knew what I was doing, and the only errors were typos that I quickly addressed.
 **Link(s) to work**
 https://learn.co/tracks/introduction-to-javascript/javascript-foundations/functions-and-scope/functions-lab
+
+### Day 87: April 19, 2018
+
+**Today's Progress**: 
+I did 3 lessons in the Introduction to Javascript lab (basically from "Functions Lab" thru "Fix the Scope lab)
+**Thoughts** 
+I had to read documentation to figure out the inner closure problem. Scope is tricky, but I feel like I get it. Useing ()() to call an inner item was slightly surprising, and I actually used it because I had an issue getting the other way to call an inner function to work.
+
+**Link(s) to work**
+https://learn.co/tracks/introduction-to-javascript/javascript-foundations/functions-and-scope/fix-the-scope-lab
