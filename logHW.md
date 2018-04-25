@@ -70,3 +70,15 @@ I think I understand object and how to instantiate them. I notice that I tend to
 This is where solving those labs builds confidence. It makes me feel "mostly right" or "right enough" when code runs and I don't fully understand why that approach works.
 
 **Link(s) to work**https://learn.co/tracks/introduction-to-javascript/javascript-foundations/data-structures/javascript-objects
+
+
+### Day 94: April 26, 2018
+
+**Today's Progress**: 
+I did up to and including javascript objects and javascript objects and arrays quiz
+
+**Thoughts** 
+Now we're getting into code that I don't understand fully. I wrote code that I believed non-destructively updated an object, but it did the opposite. I literally just changed the name so it would pass the destructive test. I see the need for me to spend more time on objects and arrays. One thing I want to do is make sure I have a solid grasp of things before I move on, without getting too bogged down into details.  
+
+**Link(s) to work**
+https://learn.co/tracks/introduction-to-javascript/javascript-foundations/data-structures/javascript-objects-and-arrays-quiz
