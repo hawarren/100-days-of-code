@@ -59,3 +59,14 @@ I had to read documentation to figure out the inner closure problem. Scope is tr
 
 **Link(s) to work**
 https://learn.co/tracks/introduction-to-javascript/javascript-foundations/functions-and-scope/fix-the-scope-lab
+
+
+### Day 93: April 25, 2018
+
+**Today's Progress**: 
+I did 3 lessons in the Data Structures lab (basically from "JavaScript Arrays" thru "Javascript Objects" lab)
+**Thoughts** 
+I think I understand object and how to instantiate them. I notice that I tend to gloss over the syntax, but I'm getting pretty good at solving the labs in 1 shot, which means that rather than flailing, I'm actually thinking through the problem.
+This is where solving those labs builds confidence. It makes me feel "mostly right" or "right enough" when code runs and I don't fully understand why that approach works.
+
+**Link(s) to work**https://learn.co/tracks/introduction-to-javascript/javascript-foundations/data-structures/javascript-objects
