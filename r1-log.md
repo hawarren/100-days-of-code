@@ -12,3 +12,7 @@ I need to approach this methodically, use pseudocode, and fully attempt to imple
 
 
 ### R1D2
+5/22/18
+More work on contacts app.
+I decided to look up how to create a database, and it solved a DB problem that I had since the beginning of the project. Fixing the database allowed me to finally seed some data (at the cost of losing my previous data.
+It's amazing and humbling how simple things are when I take my time to RTFM. When I rush and "flail" I waste so much more time, and a thing that could have taken 10 minutes, instead takes hours and days (!)
