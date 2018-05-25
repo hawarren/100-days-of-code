@@ -26,3 +26,12 @@ It had alot more moving parts to figure out than I initially thought (uploading 
 Link to work:
 https://github.com/hawarren/HWarrenContactsApp/commit/6eeeea30b292409331eea6c903e3b5409ee91c46
 https://github.com/hawarren/HWarrenContactsApp/commit/0c6b2c829a3bf0ac8ebaa79c7ed72761fc258eb0
+
+### R1D4
+5/24/18
+What I did:
+I started refactoring the code for a multiselect list, for my contacts app.
+I need to practice making controllers and modules in Angular. I got stuck because I am not fully sure how to declare a module and it's dependencies, and how that changes syntax from when a script is declared inline.
+I also struggle reading javascript, so I'm torn as to how much time to take to stop and really try to grasp the fundamentals, vs. how much time to spend just trying to get the functionality done without worrying about refactoring.
+Link to work:
+N/A
