@@ -35,3 +35,14 @@ I need to practice making controllers and modules in Angular. I got stuck becaus
 I also struggle reading javascript, so I'm torn as to how much time to take to stop and really try to grasp the fundamentals, vs. how much time to spend just trying to get the functionality done without worrying about refactoring.
 Link to work:
 N/A
+
+### R1D6
+Spent most of my time getting my blog, portfolio, and bugtracker online. Still need to get bugtracker database hooked up
+Also tried to update multiselectlist code to use current bootstrap and angular, it doesn't seem to fully work with the versions of bootstrap and angular that I'm using (still need to verify this)
+I've already slacked on doing my 1 hour, Friday the time really got away from me and I was tired from having pulled 3 allnighters this week, trying to finish this contacts app.
+I didn't know if I should count publishing my app, but I decided it counts since it's an important part of my workflow (configuring and fixing connection strings, FTP, etc.)
+Link to work:
+https://blog.hanifwarren.com
+https//:bugtracker.hanifwarren.com
+https://portfolio.hanifwarren.com
+https://hanifwarren.com
