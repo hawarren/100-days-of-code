@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Hanif Warren]
 
-The log of my #100DaysOfCode challenge. Started on [May 21, Tuesday, 2018].
+The log of my #100DaysOfCode challenge. Started on [May 29, Tuesday, 2018].
 
 ## Log
 
@@ -16,4 +16,5 @@ upload contacts app and database to my site, add to modal on my portfolio site
 Add database to blog (it's already empty so it's not necessary to do anything.
 Start blogging (take progress here and blog about it on my blog site)
 
-
+Link to work:
+https://github.com/hawarren/HWFirstPersonalSite/commit/bb5493855bb168ab9777711f42d6c1de151804c5
