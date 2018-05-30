@@ -43,6 +43,8 @@ I've already slacked on doing my 1 hour, Friday the time really got away from me
 I didn't know if I should count publishing my app, but I decided it counts since it's an important part of my workflow (configuring and fixing connection strings, FTP, etc.)
 Link to work:
 https://blog.hanifwarren.com
-https//:bugtracker.hanifwarren.com
+https://bugtracker.hanifwarren.com
 https://portfolio.hanifwarren.com
 https://hanifwarren.com
+
+R
