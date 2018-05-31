@@ -18,3 +18,11 @@ Start blogging (take progress here and blog about it on my blog site)
 
 Link to work:
 https://github.com/hawarren/HWFirstPersonalSite/commit/bb5493855bb168ab9777711f42d6c1de151804c5
+
+### R1D2 
+5/30/18
+Fixed some links to my portfolio, also decided to add my outstanding bugs from all my projects to my bugtracker. Ran into a stupid problem where rutgers wifi was blocking my connection to my database, and it took me a while to figure out it was them (once I switched to tethering my phone it worked out).
+I'm constantly amazed at the number of snafus that turn up that aren't even directly related to what I set out to do that day. It's crazy when something that worked yesterday stops working today. But it's also a test of confidence and being detail oriented, because I need to be sure that I did things right, before I can confidently say the problem isn't with me. I also found some cool resources for checking my connection string.
+Link to work:
+https://github.com/hawarren/HWProductionBlog/commit/a3c34399a39803a89d0d97265d1459eaf4e8213e
+https://github.com/hawarren/BugTrackerV3/commit/ac6fccc5ed0be5ab0b73600b4491cc7f593cdc30
