@@ -26,3 +26,17 @@ I'm constantly amazed at the number of snafus that turn up that aren't even dire
 Link to work:
 https://github.com/hawarren/HWProductionBlog/commit/a3c34399a39803a89d0d97265d1459eaf4e8213e
 https://github.com/hawarren/BugTrackerV3/commit/ac6fccc5ed0be5ab0b73600b4491cc7f593cdc30
+
+### R1D3 
+5/31/18
+Worked on contacts up, I am refactoring the multiselectlist, I ran into a problem using the directive, so I embedded it into the my application module. It still runs, so next step is to bring it into my app.
+It's fun making stuff work. Instead of getting stuck, I compromised so that I could move on.
+I can always refactor later 
+I also realized that the previous “object reference not set to an object” error was probably from not using the => lambda function.
+
+
+### R1D4 
+6/1/18
+Fully refactored the Angularjs dropdownmenu, and changed the variable names to more smoothly fit into my contacts app. Unfortunately, it didn't quite work when I tried to plug it in. It's strange, because I was fairly confident that I had it all together, yet I'm not sure why it's not working. I also need to learn how to use the debugger a little better. But I definitely made real progress!
+Link to work:
+https://github.com/hawarren/MULTI_SELECT_DROP_DOWN_LIST/commit/e9cec8ac8bfce966f62d9f05023123bc4bef5d51
