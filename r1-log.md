@@ -40,3 +40,11 @@ I also realized that the previous “object reference not set to an object” er
 Fully refactored the Angularjs dropdownmenu, and changed the variable names to more smoothly fit into my contacts app. Unfortunately, it didn't quite work when I tried to plug it in. It's strange, because I was fairly confident that I had it all together, yet I'm not sure why it's not working. I also need to learn how to use the debugger a little better. But I definitely made real progress!
 Link to work:
 https://github.com/hawarren/MULTI_SELECT_DROP_DOWN_LIST/commit/e9cec8ac8bfce966f62d9f05023123bc4bef5d51
+
+### R1D5 
+6/2/18
+Messing around with this multiselectlist. I really don't understand why my refactored version works, but I can't even drop the files in the app and have them work.
+
+### R1D6 
+6/3/18
+More messing around with the multiselectlist. At this point, I need to read more documentation so that I understand what works and why. Because I've gotten as far as my limited understanding will take me.
