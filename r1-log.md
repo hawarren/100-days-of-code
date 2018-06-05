@@ -48,3 +48,9 @@ Messing around with this multiselectlist. I really don't understand why my refac
 ### R1D6 
 6/3/18
 More messing around with the multiselectlist. At this point, I need to read more documentation so that I understand what works and why. Because I've gotten as far as my limited understanding will take me.
+
+### R1D7 
+6/4/18
+Figured out part of the issue, the library relies on an older version of jQuery  (3.3.1) and bootstrap (3.3.7)
+When I switched the libraries in the standalone dropdownlist, it stopped working. so that means I need to match the libraries at the very least before I port it over. It's been a real learning experience.
+I've spent countless hours on this, but I'm not tired or discouraged. Annoyed that I'm still on this, but I'm very determined nonetheless.
