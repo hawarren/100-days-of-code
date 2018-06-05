@@ -54,3 +54,10 @@ More messing around with the multiselectlist. At this point, I need to read more
 Figured out part of the issue, the library relies on an older version of jQuery  (3.3.1) and bootstrap (3.3.7)
 When I switched the libraries in the standalone dropdownlist, it stopped working. so that means I need to match the libraries at the very least before I port it over. It's been a real learning experience.
 I've spent countless hours on this, but I'm not tired or discouraged. Annoyed that I'm still on this, but I'm very determined nonetheless.
+
+### R1D8 
+6/5/18
+Finally fixed my portfolio! I really sat down and resolved to address some lingering issues, and before I knew it, I was fixing and tweaking multiple things and went way past my "hour" of code. Now my landing page is published and I'm actually proud to show it to people!
+The pride of shipping is very real. I love it.
+Links to work:
+https://github.com/hawarren/HWFirstPersonalSite/commit/70f313c83b1a26164b7a1bc3f9246010527af00a
